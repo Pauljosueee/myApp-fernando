@@ -1,0 +1,7 @@
+{
+  "name": "myApp-fernando",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
